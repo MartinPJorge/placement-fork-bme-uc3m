@@ -10,20 +10,17 @@ ensure that received graphs contain the required information.
 Related paper
 =============
 
-.. image:: img/volatite-problem-figure.png
-    :width: 200px
-        :align: center
-            :height: 100px
-                :alt: fog robotics
+"Delay and Reliability-Constrained VNF Placement on Mobile and Volatile 5G Infrastructure"
+###############
+
+.. image:: https://github.com/MartinPJorge/placement-fork-bme-uc3m/blob/bme-uc3m/img/volatile-problem-figure.png
 
 This fork of the placement module contains the heuristic
 solution presented in the paper
 
 "Delay and Reliability-Constrained
 VNF Placement on Mobile and Volatile
-5G Infrastructure"
-
-Article DOI: 10.1109/TMC.2021.3055426
+5G Infrastructure" DOI: 10.1109/TMC.2021.3055426
 
 The file
 `constructive_mapper_from_fractional.py`
@@ -47,12 +44,32 @@ Consider referencing our work as follows if you
 are using it for personal/comercial purposes:
 
 
-```tex
-TODO
-```
+**BibTeX**
 
-MLA: **TODO**
+.. code-block:: latex
+
+   @article{nemeth2021delay,
+      title={Delay and reliability-constrained VNF placement on mobile and volatile 5G infrastructure}, 
+      author={Balázs {Németh} and Nuria {Molner} and Jorge {Martín-Pérez} and Carlos J. {Bernardos} and Antonio {de la Oliva}, Balázs {Sonkoly}},
+      year={2021},
+      journal={IEEE Transactions on Mobile Computing}
+      archivePrefix={TODO},
+      primaryClass={TODO},
+      doi={10.1109/TMC.2021.3055426}
+      % Unkwnown details prior to publication - TODO
+      % volume={65},
+      % number={2}, 
+      % pages={464-474},
+   }
 
 
+
+**Plain text**
+
+.. code-block:: txt
+    
+    Balázs Németh, Nuria Molner, Jorge Martín-Pérez, Carlos J. Bernardos, Antonio de la Oliva, Balázs Sonkoly,
+    "Delay and reliability-constrained VNF placement on mobile and volatile 5G infrastructure,"
+    in IEEE Transactions on Mobile Computing, vol. ??, no. ?, pp. ???-???, ?? 2021, doi: 10.1109/TMC.2021.3055426.
 
 
